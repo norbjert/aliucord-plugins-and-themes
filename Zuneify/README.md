@@ -5,7 +5,8 @@ I fixed a broken URL that caused the background to break on some (or all?) devic
 
 I may also change a few colors around.
 
-If you want to use this version of the Zuneify theme download the original and replace the updater url with "https://raw.githubusercontent.com/norbjert/aliucord-plugins-and-themes/main/Zuneify/Zuneify.json"
+If you want to use this version of the Zuneify theme download the original and replace the updater url with:
+- `https://raw.githubusercontent.com/norbjert/aliucord-plugins-and-themes/main/Zuneify/Zuneify.json`
 
 ![Photo](https://raw.githubusercontent.com/norbjert/aliucord-plugins-and-themes/blob/main/Zuneify/preview/Zuneify.png)
 
