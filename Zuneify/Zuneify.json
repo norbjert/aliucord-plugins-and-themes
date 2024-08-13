@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "author": "snappyapple632#0632",
+        "name": "Zuneify",
+        "version": "1.0.1",
+		"licence": "GPLv3",
+		"updater": "https:\/\/raw.githubusercontent.com\/snappyapple632\/Zuneify\/main\/Zuneify.json"
+    },
+    "background": {
+        "url": "https:\/\/github.com\/snappyapple632\/Zuneify\/blob\/80f3eee2ff16c18ac348887954b7c2ecc5681a53\/zune_mobile_comp.png",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeCapsBold.ttf",
+        "ginto_medium": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeUI-U.ttf",
+        "roboto_medium_numbers": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeCapsBold.ttf",
+        "ginto_regular": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeAltBold.ttf",
+        "whitney_bold": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeUI-UBold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeAltBold.ttf",
+        "whitney_medium": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeUI-U.ttf"
+    },
+    "simple_colors": {
+        "statusbar": 0,
+        "background": 1392508928,
+        "background_secondary": 0,
+        "mention_highlight": 1409220833,
+        "accent": 2147418337,
+        "active_channel": 0
+    },
+    "colors": {
+        "link": -65311,
+        "link_500": -65311,
+        "uikit_btn_compound_color_selector_dark": -65311
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
