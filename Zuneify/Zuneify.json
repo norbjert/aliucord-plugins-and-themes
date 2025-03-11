@@ -1,8 +1,8 @@
 {
     "manifest": {
-        "author": "snappyapple632#0632",
+        "author": "norbjert and snappyapple632#0632",
         "name": "Zuneify",
-        "version": "1.0.2",
+        "version": "1.0.3",
 		"licence": "GPLv3",
 		"updater": "https:\/\/raw.githubusercontent.com\/norbjert\/aliucord-plugins-and-themes\/main\/Zuneify\/Zuneify.json"
     },
